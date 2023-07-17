@@ -1,0 +1,183 @@
+h1{
+    color:orange; 
+    text-align:center;
+    text-decoration:underline;
+  } 
+  
+  section{
+    border:1px solid black;
+    margin: 50px 330px;
+  }
+  
+  h2{
+    color:rgb(138, 154, 91); 
+    text-align:center;
+    font-style:italic;
+    text-decoration:underline;
+    font-size:30px;
+  }
+  
+  table,th,td {
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+   
+  }
+  
+  th{
+    font-size: 20px;
+    color:rgb(138, 154, 91);
+    border:1px solid black;
+    text-align: 19px;
+  }
+  
+  td{
+    color:#FE828C;
+    text-align: 15px;
+  }
+  
+  
+  
+  .Lugrasimo-heading{
+    text-decoration:none;
+    font-size: 22px;
+    font-family: 'Lugrasimo', cursive;
+  }
+  
+  .Lugrasimobold{
+    text-align: center;
+    color:#FE828C;
+    font-weight:bold;
+    font-family: 'Lugrasimo', cursive;
+  }
+  
+  .Lugrasimomed{
+    text-align: center;
+    color:#FE828C;
+    font-weight:500px;
+    font-family: 'Lugrasimo', cursive;
+  }
+  
+  .Lugrasimonorm{
+    text-align: center;
+    color:#FE828C;
+    font-weight:400px;
+    font-family: 'Lugrasimo', cursive;
+  }
+  
+  
+  .Tektur-heading{
+    text-decoration:none;
+    font-size: 22px;
+    font-family: 'Tektur', cursive;
+  }
+  
+  .Tekturbold{
+    text-align: center;
+    color:#FE828C;
+    font-weight:bold;
+    font-family: 'Tektur', cursive;
+  }
+  
+  .Tekturmed{
+    text-align: center;
+    color:#FE828C;
+    font-weight:500px;
+    font-family: 'Tektur', cursive;
+  }
+  
+  .Tekturnorm{
+    text-align: center;
+    color:#FE828C;
+    font-weight:500px;
+    font-family: 'Tektur', cursive;
+  }
+  
+  
+  .VT323-heading{
+    text-decoration:none;
+    font-size: 22px;
+    font-family: 'VT323', monospace;
+  }
+  
+  .VT323bold{
+    text-align: center;
+    color:#FE828C;
+    font-weight:bold;
+    font-family: 'VT323', monospace;
+  }
+  
+  .VT323med{
+    text-align: center;
+    color:#FE828C;
+    font-weight:500px;
+    font-family: 'VT323', monospace;
+  }
+  
+  .VT323norm{
+    text-align: center;
+    color:#FE828C;
+    font-weight:500px;
+    font-family: 'VT323', monospace;
+  }
+  
+  span{
+    color:black;
+    text-decoration:underline;
+    font-style:italic;
+  }
+  
+  .secondsection{
+    order:1px solid black;
+    margin: 50px 350px;
+  }
+  
+  special{
+  background-color:hsl(60, 100%, 94%);
+  font-style:normal !important;
+  }
+  
+  
+  
+  .thirdsection{
+    margin: 50px 400px;
+  }
+  
+  div {
+    width: 300px;
+    border: 15px solid none;
+    padding: 10px;
+    margin: 0 auto;
+    text-align:center;
+  }
+  
+  .Lightgreen{
+  background-color: #cfc;
+  margin: 10px auto;
+  }
+  
+  .lavenderblue{
+    background-color:#CFCFFC;
+    margin: 10px auto;
+  }
+  
+  .red{
+    background-color:#d3c4be;
+    margin:10px auto;
+  }
+  
+  footer{
+    color:orange;
+    text-align:center;
+    font-style:bold;
+    font-size:20px;
+    margin: 30px auto;
+  }
+  
+  
+  
+  
+  
+  
+  
